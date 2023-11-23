@@ -17,8 +17,30 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "Thanks for installing WBUI2!",
-                    "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
+                    "title1": "Bienvenidos a Bandoleiros",
+                    "text1": "Queda totalmente prohibido el uso de desventajas del juego (bugs, hacks, exploits...) para raidear y conllevará baneo permanente del servidor
+					
+					Máximo una base/cueva por tribu.
+
+					Máximo 6 personas por tribu y completamente prohibidas las alianzas. 
+
+					No se tolerará la falta de educación y respeto bajo ningún concepto.
+					
+					Prohibido campear zonas de respawn con torretas, fobs, construcciones que obstruyan la zona o demasiado cercanas.
+
+					Obligatorio llevar el mismo nombre de superviviente que en este servidor.
+
+					Prohibido la petición de ventaja de algún tipo a admins, ya sea la adquisición de algún ítem, de alguna base, de algún dino, algún tipo de información...
+
+					Estar en el discord es requisito fundamental y obligatorio.
+
+					Terminantemente prohibido hacer undermesh
+
+					Prohibido nombre de superviviente como: 123, humano,Bob...
+
+					Prohibido construir torretas en dinos.
+					
+					Se permite secuestrar con esposas, siempre un maximo de 15m ( Se hace excepción de la norma si es en medio de raid, un maximo de 30m ) ",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
